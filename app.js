@@ -19,6 +19,14 @@ mongoose.connect(process.env.MONGODB_URI)
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => console.error('MongoDB connection error:', err));
 
+app.get('/', (req, res) => {
+    res.json({
+        message: "This is the backend for the Issue Tracking System",
+        status: "Server is running",
+        timestamp: new Date().toISOString()
+    });
+});
+
 // Routes
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/issues', require('./routes/issues'));
