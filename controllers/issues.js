@@ -105,7 +105,7 @@ const deleteIssue = asyncHandler(async (req, res) => {
     throw new Error('Not authorized to delete this issue');
   }
 
-  await issue.remove();
+  await issue.deleteOne();
 
   res.json({ success: true });
 });
