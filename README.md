@@ -172,4 +172,20 @@ VITE_API_URL=http://localhost:5000/api
 
 📱 0714249784
 
-🔗 Project Link: https://github.com/yourusername/issue-tracker
+<h2>This is the Full Demo of the project</h2><br><br>
+
+
+https://github.com/user-attachments/assets/4fb5b335-2aaa-493e-a89f-6efd58245e6b
+
+
+
+<h2>This is the Screenshots of the system</h2><br><br>
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/562cd90a-08ba-4fb7-a5fe-fd4b864ba526" />
+<img width="1920" height="1374" alt="2" src="https://github.com/user-attachments/assets/ec4845bc-52ad-4ed9-89dd-7a36815e7690" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/734bde2e-9392-4136-b24d-13504066b133" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/5fed69d0-aee0-4315-ad10-ed99b33a34cf" />
+<img width="1920" height="1553" alt="5" src="https://github.com/user-attachments/assets/4fa649c7-9270-4f26-ac14-e1d23a897c3c" />
+<img width="1920" height="1530" alt="6" src="https://github.com/user-attachments/assets/cf329491-1335-43f5-8042-0f75b4347f3e" />
+<img width="1920" height="1450" alt="7" src="https://github.com/user-attachments/assets/f3036768-5105-433f-a574-1a36ba7bc76d" />
+<img width="1920" height="1423" alt="8" src="https://github.com/user-attachments/assets/abb884a7-f8eb-48ab-be95-ff413a4be7f8" />
